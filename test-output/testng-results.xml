@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-19T17:33:25 IST" name="Default suite" finished-at="2023-04-19T17:34:13 IST" duration-ms="47717">
+    <groups>
+    </groups>
+    <test started-at="2023-04-19T17:33:25 IST" name="Default test" finished-at="2023-04-19T17:34:13 IST" duration-ms="47717">
+      <class name="org.ark.TestngCalcReport">
+        <test-method is-config="true" signature="appopn()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:33:25 IST" name="appopn" finished-at="2023-04-19T17:33:53 IST" duration-ms="27849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appopn -->
+        <test-method is-config="true" signature="date()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:33:53 IST" name="date" finished-at="2023-04-19T17:33:53 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="tst1()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:33:53 IST" name="tst1" finished-at="2023-04-19T17:34:05 IST" duration-ms="11779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tst1 -->
+        <test-method is-config="true" signature="dateaft()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:05 IST" name="dateaft" finished-at="2023-04-19T17:34:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateaft -->
+        <test-method is-config="true" signature="screensh()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:05 IST" name="screensh" finished-at="2023-04-19T17:34:06 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screensh -->
+        <test-method is-config="true" signature="date()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:06 IST" name="date" finished-at="2023-04-19T17:34:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="tst2()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:06 IST" name="tst2" finished-at="2023-04-19T17:34:07 IST" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tst2 -->
+        <test-method is-config="true" signature="dateaft()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:07 IST" name="dateaft" finished-at="2023-04-19T17:34:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateaft -->
+        <test-method is-config="true" signature="screensh()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:07 IST" name="screensh" finished-at="2023-04-19T17:34:08 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screensh -->
+        <test-method is-config="true" signature="date()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:08 IST" name="date" finished-at="2023-04-19T17:34:08 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="tst3()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:08 IST" name="tst3" finished-at="2023-04-19T17:34:09 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tst3 -->
+        <test-method is-config="true" signature="dateaft()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:09 IST" name="dateaft" finished-at="2023-04-19T17:34:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateaft -->
+        <test-method is-config="true" signature="screensh()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:09 IST" name="screensh" finished-at="2023-04-19T17:34:10 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screensh -->
+        <test-method is-config="true" signature="date()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:10 IST" name="date" finished-at="2023-04-19T17:34:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="tst4()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:10 IST" name="tst4" finished-at="2023-04-19T17:34:11 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tst4 -->
+        <test-method is-config="true" signature="dateaft()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:11 IST" name="dateaft" finished-at="2023-04-19T17:34:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateaft -->
+        <test-method is-config="true" signature="screensh()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:11 IST" name="screensh" finished-at="2023-04-19T17:34:12 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screensh -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:org.ark.TestngCalcReport@368247b9]" started-at="2023-04-19T17:34:12 IST" name="closeapp" finished-at="2023-04-19T17:34:13 IST" duration-ms="966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- org.ark.TestngCalcReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
